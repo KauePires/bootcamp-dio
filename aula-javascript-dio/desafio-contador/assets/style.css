@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Cutesy;
+    src: url(../assets/fonts/Cutesy.ttf)
+}
+
+body {
+    background-color: #f9fdef ;
+    font-family: Cutesy;
+    font-size: 65px;
+    text-align: center;
+}
+
+button {
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    border: 2px solid #d3d9ee;
+    background-color: #f9fdef ;
+    color: #d3d9ee;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
